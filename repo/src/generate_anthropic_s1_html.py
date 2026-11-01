@@ -410,9 +410,42 @@ def generate_anthropic_s1_html():
     <!-- EXECUTIVE SUMMARY (TL;DR) -->
     <div class="tldr-box">
         <h2>⚡ Executive Verdict: Operational Winner, Capital-Structure Trap at $1.5T</h2>
-        <p style="font-size: 0.95rem; color: #cbd5e1;">
+        <p style="font-size: 0.95rem; color: #cbd5e1; margin-bottom: 14px;">
             Anthropic's October 26, 2026 Form S-1 proves that frontier AI labs can generate tens of billions in real enterprise revenue, anchored by <strong>Claude Code</strong> and <strong>~900% Net Revenue Retention (NRR)</strong>. However, to secure the compute and capital required for that growth, Anthropic locked itself into <strong>$587.0B to $688.6B of non-cancelable multi-year take-or-pay infrastructure obligations</strong>—turning variable software economics into massive fixed operating leverage right at the peak of the AI capital cycle.
         </p>
+
+        <!-- EXPLICIT VALUATION VERDICT & POST-IPO COURSE STATEMENT -->
+        <div style="background: rgba(15, 23, 42, 0.85); border: 1px solid rgba(249, 115, 22, 0.5); border-left: 5px solid #f97316; border-radius: 10px; padding: 18px 20px; margin-bottom: 16px;">
+            <h3 style="color: #fdba74; font-size: 1.08rem; margin-bottom: 8px;">
+                🎯 Explicit Valuation Call &amp; Likely Post-IPO Course for <code>ANT</code>
+            </h3>
+            <p style="font-size: 0.9rem; color: #f0f4f8; line-height: 1.55; margin-bottom: 12px;">
+                <strong>Valuation Verdict — Overvalued by 32% to 44% at the $1.5T Target:</strong> At the initial $1.5T–$2.0T underwriter target, <code>ANT</code> is priced at <strong>32x to 43x Q2 annualized revenue ($46.2B)</strong> and <strong>72x to 96x true compute-adjusted gross profit ($20.8B)</strong>. Our first-principles model places <strong>intrinsic fair value at $844.7B in the Base Case (-43.7% below $1.5T)</strong> and <strong>$1,014.1B on a probability-weighted basis (-32.4%)</strong>, with severe downside to <strong>$232.4B (-84.5%)</strong> in a macro AI bubble burst. Given current late-October 2026 market reads—buy-side pushback already forcing whisper numbers down from $2.0T toward $1.35T–$1.50T, post-SpaceX mega-IPO indigestion, and anxiety over hyperscaler CapEx ROI—<strong><code>ANT</code> is highly likely to follow a classic 4-stage "Pop, Bleed, De-Rate, and Restructure" trajectory:</strong>
+            </p>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px;">
+                <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 12px;">
+                    <div style="font-size: 0.74rem; font-weight: 700; color: #38bdf8; text-transform: uppercase;">Phase 1: Roadshow &amp; Debut (Late 2026)</div>
+                    <div style="font-size: 0.92rem; font-weight: 700; color: #f8fafc; margin: 3px 0;">Pricing Trim ($1.35T–$1.5T) &amp; Low-Float Pop</div>
+                    <p style="font-size: 0.81rem; color: #cbd5e1; line-height: 1.42;">Underwriters concession-price the IPO near $1.35T–$1.50T with a tight float (&lt;5%). Scarcity, retail FOMO, and index front-running spark a brief debut pop toward <strong>$1.6T–$1.7T</strong>, mirroring the summer 2026 SpaceX IPO.</p>
+                </div>
+                <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 12px;">
+                    <div style="font-size: 0.74rem; font-weight: 700; color: #eab308; text-transform: uppercase;">Phase 2: Indigestion (H1 2027)</div>
+                    <div style="font-size: 0.92rem; font-weight: 700; color: #f8fafc; margin: 3px 0;">Liquidity Drain &amp; NRR Normalization ($1.1T)</div>
+                    <p style="font-size: 0.81rem; color: #cbd5e1; line-height: 1.42;">Institutional PMs sell liquid AI winners (NVDA, MSFT, META) to fund <code>ANT</code> allocations. As 900% NRR mathematically decelerates toward 180%–220% and 2027 compute commitments jump to $52B/yr, the IPO premium evaporates.</p>
+                </div>
+                <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 12px;">
+                    <div style="font-size: 0.74rem; font-weight: 700; color: #ef4444; text-transform: uppercase;">Phase 3: The Take-or-Pay Wall (H2 2027–2028)</div>
+                    <div style="font-size: 0.92rem; font-weight: 700; color: #f8fafc; margin: 3px 0;">Multiple Compression to $750B–$850B (-45%)</div>
+                    <p style="font-size: 0.81rem; color: #cbd5e1; line-height: 1.42;">Lock-up expirations collide with the $86B/yr 2028 take-or-pay wall. Public markets re-rate <code>ANT</code> from 30x+ hyper-growth to 8.5x enterprise EV/Revenue, driving a <strong>-40% to -50% drawdown</strong> (or <strong>-80%+ to ~$232B</strong> in a full AI bust).</p>
+                </div>
+                <div style="background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.08); border-radius: 8px; padding: 12px;">
+                    <div style="font-size: 0.74rem; font-weight: 700; color: #10b981; text-transform: uppercase;">Phase 4: Post-Reset Recovery (2029–2030+)</div>
+                    <div style="font-size: 0.92rem; font-weight: 700; color: #f8fafc; margin: 3px 0;">Lease Renegotiation &amp; Compounder Floor</div>
+                    <p style="font-size: 0.81rem; color: #cbd5e1; line-height: 1.42;">Protected by its $122B+ cash buffer, Anthropic avoids insolvency, forces AWS, Google, and Broadcom to stretch out take-or-pay minimums, and compounds steadily from its reset $800B base as the dominant B2B AI platform.</p>
+                </div>
+            </div>
+        </div>
+
         <div class="tldr-grid">
             <div class="tldr-item">
                 <h3>1. Two Opposite GAAP Mirages</h3>

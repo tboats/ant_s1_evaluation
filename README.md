@@ -7,9 +7,17 @@
 
 ---
 
-## Executive Summary
+## Executive Summary & Explicit Valuation Call
 
 Anthropic's October 26, 2026 Form S-1 proves that frontier AI labs can generate tens of billions in commercial enterprise revenue ($16.29B in H1 2026; $11.56B in Q2 alone, or a $46.22B annualized run-rate), anchored by **Claude Code** and **~900% Net Revenue Retention (NRR)**.
+
+### Explicit Valuation Verdict & Likely Post-IPO Course for `ANT`
+- **Valuation Verdict — Overvalued by 32% to 44% at the $1.5T Target**: At the initial $1.5T-$2.0T underwriter target, `ANT` is priced at **32x to 43x Q2 annualized revenue ($46.2B)** and **72x to 96x true compute-adjusted gross profit ($20.8B)**. Our first-principles model places **intrinsic fair value at $844.7B in the Base Case (-43.7% below $1.5T)** and **$1,014.1B on a probability-weighted basis (-32.4%)**, with downside to **$232.4B (-84.5%)** in a macro AI bubble burst.
+- **Likely 4-Phase Post-IPO Trajectory ("Pop, Bleed, De-Rate, and Restructure")**:
+  1. **Phase 1 — Roadshow Haircut & Low-Float Pop (Late 2026 | $1.35T-$1.5T -> $1.65T)**: Buy-side pushback trims IPO pricing toward $1.35T-$1.50T with a tight (<5%) float; retail FOMO and index front-running drive a brief debut pop toward $1.6T-$1.7T (mirroring the summer 2026 SpaceX IPO).
+  2. **Phase 2 — Liquidity Indigestion & NRR Normalization (H1 2027 | $1.65T -> $1.10T)**: Institutional PMs sell liquid AI holdings (NVDA, MSFT, META) to fund `ANT` allocations. As 900% NRR mathematically decelerates toward 180%-220% and 2027 compute commitments jump to $52B/yr, the IPO scarcity premium evaporates.
+  3. **Phase 3 — Lock-Up Expiration & The 2028 Take-or-Pay Wall (H2 2027-2028 | $1.10T -> $750B-$850B)**: Lock-up expirations collide with the $86B/yr 2028 take-or-pay wall. Public markets re-rate `ANT` from 30x+ hyper-growth to 8.5x enterprise EV/Revenue, driving a **-40% to -50% drawdown** (or **-80%+ to ~$232B** in a full AI bust).
+  4. **Phase 4 — Lease Renegotiation & Compounder Floor (2029-2030+)**: Protected by its $122B+ cash buffer, Anthropic avoids insolvency, forces AWS, Google, and Broadcom to stretch out take-or-pay minimums, and compounds steadily from its reset ~$800B base as the dominant B2B AI platform.
 
 However, stripping away GAAP accounting distortions reveals a critical capital-structure vulnerability at the proposed $1.5T-$2.0T IPO valuation:
 1. **Two Opposite GAAP Mirages**:
